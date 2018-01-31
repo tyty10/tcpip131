@@ -25,7 +25,7 @@ public class ClientChat {
 		try {
 			socket = new Socket(ip, port);
 			
-			System.out.println("Connected to Server...");
+			System.out.println("ddddConnected to Server...");
 			Start();
 
 		} catch (IOException e) {
