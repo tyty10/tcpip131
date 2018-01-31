@@ -3,11 +3,10 @@ package Client;
 public class Client {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		int a =10;
-		System.out.println("¾î¶»°Ô???.");
-
-		
+		String ip = "70.12.111.137";
+		int port = 7777;
+		ClientChat chat = null;
+		chat = new ClientChat(ip, port);
+	
 	}
-
 }
