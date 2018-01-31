@@ -5,7 +5,9 @@ public class Client {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int a =10;
-		System.out.println("사랑합ㄴ이다.");
+		System.out.println("어떻게???.");
+
+		
 	}
 
 }
